@@ -1,1 +1,3 @@
-# basic-spring-webservice
+# akka-spring
+Testing SPRING EXTENSION PROVIDER
+
